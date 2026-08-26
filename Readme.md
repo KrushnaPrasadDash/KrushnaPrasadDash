@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Computer Science student (Batch of 2028) at **Siksha O Anusandhan, Bhubaneswar** — CGPA: 8.73
+- 🎓 Computer Science student (Batch of 2028) at **Siksha O Anusandhan, Bhubaneswar** — CGPA: 8.83
 - 🔭 Currently building full-stack, role-based systems with **Java, ReactJS & MySQL**
 - 🌐 Currently studying **Computer Networking**
 - ⚙️ Exploring **CI/CD** — set up personal Jenkins pipelines that trigger shell scripts for system health checks
@@ -78,12 +78,12 @@ ML model (Multiple Linear Regression, 80%+ accuracy) predicting car prices from 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KrushnaPrasadDash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrushnaPrasadDash&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrushnaPrasadDash&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -96,7 +96,7 @@ ML model (Multiple Linear Regression, 80%+ accuracy) predicting car prices from 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=2E9EF7" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=KrushnaPrasadDash&style=flat-square&color=2E9EF7" alt="Profile Views" />
 </p>
 
 <p align="center"><i>Come curious. Learn fast. Build for real. 🚀</i></p>
